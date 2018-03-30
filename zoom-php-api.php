@@ -3,12 +3,12 @@
 /*
  *Basic function for zoom api V2  
  *You can read the API documnentation from here: https://zoom.github.io/api/#add-a-webinar-registrant 
- And create your jwt_key from here: 
+ And create your jwt_key from here: https://jwt.io/
+
  Note: you have to be pro account not free account to use this api
 
  *current bug in this api: in zoom_add_user()
-
-But all the other functions are working
+ *But, all the other functions are working
 
  */
 
